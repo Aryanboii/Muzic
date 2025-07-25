@@ -348,7 +348,7 @@ export default function StreamSongQueue() {
           </div>
           <h1 className="text-6xl font-black text-white mb-2 flex items-center justify-center gap-2">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500">
-              vibe check
+              Muzic
             </span>{" "}
             🎵
           </h1>
